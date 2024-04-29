@@ -13,4 +13,4 @@
 4. Page View Time Series Visualizer: Clean data and do line plot, bar plot, box plot using Matplotlib and Seaborn to analyse page views over time.
 5. Sea Level Predictor: Use SciPy's linear regression function to predict future sea levels using current data trends.
 
-Click [here](https://www.freecodecamp.org/certification/fccd3e3b7a0-09d6-437b-8c01-6a2d10ecf6fc/relational-database-v8) to access the certification.
+Click [here](https://www.freecodecamp.org/certification/fccd3e3b7a0-09d6-437b-8c01-6a2d10ecf6fc/data-analysis-with-python-v7) to access the certification.
